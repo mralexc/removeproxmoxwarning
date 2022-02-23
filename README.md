@@ -1,2 +1,2 @@
 # removeproxmoxwarning
-Remove the subscription warning 
+Remove the proxmox subscription warning 
